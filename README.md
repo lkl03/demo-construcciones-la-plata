@@ -1,2 +1,7 @@
-# demo-construcciones-la-plata
-Demo web para Construcciones la Plata — diseñada por eterlab.
+# Construcciones la Plata
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
